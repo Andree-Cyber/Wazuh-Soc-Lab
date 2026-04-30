@@ -16,7 +16,7 @@ Failed login attempts were generated on the Windows 11 VM by entering incorrect 
 
 | Evidence | Screenshot |
 |---|---|
-| Failed login events in Wazuh | `screenshots/14-windows-failed-login-events.png` |
+| Failed login events in Wazuh | ![image alt](https://github.com/Andree-Cyber/Wazuh-Soc-Lab/blob/38fc00da930443371272f709e5b9d57e985e9dfd/Detections/windows10-failed%20login-events.png) |
 | Expanded failed login alert | `screenshots/15-windows-failed-login-alert-details.png` |
 
 ### Finding Summary
