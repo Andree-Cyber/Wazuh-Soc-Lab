@@ -21,7 +21,7 @@ All systems are connected on the same local network. The Ubuntu laptop hosts the
 
 | System | Example IP Address | Connectivity Status |
 |---|---|---|
-| Wazuh Server | 192.168.1.X | Reachable |
-| Windows 11 VM | 192.168.1.X | Can reach Wazuh server |
-| Ubuntu VM | 192.168.1.X | Can reach Wazuh server |
-| Kali Linux VM | 192.168.1.X | Can reach lab VMs |
+| Wazuh Server | 10.0.0.X | Reachable |
+| Windows 11 VM | 10.0.0.X | Can reach Wazuh server |
+| Ubuntu VM | 10.0.0.X | Can reach Wazuh server |
+| Kali Linux VM | 10.0.0.X| Can reach lab VMs |
