@@ -44,6 +44,5 @@ The Wazuh login/dashboard was successfully accessed from the PC browser using th
 Evidence:
 
 Login: ![image alt](https://github.com/Andree-Cyber/Wazuh-Soc-Lab/blob/95a9a0312943dc55532df4e0fe93952abc7cb62a/Screenshots/screenshot-04-login-page.png)
-
-Dashboard: 
+Dashboard: ![image alt](https://github.com/Andree-Cyber/Wazuh-Soc-Lab/blob/7880c6dcfabdc89709c7d8cc431d9aaee04d9c40/Screenshots/screenshot-05-Wazuh-dashboard-access.png)
 
