@@ -12,7 +12,7 @@ This lab uses a physical Ubuntu laptop as the Wazuh server and a separate PC run
 |---|---|---|---|
 | Ubuntu Laptop | Wazuh Server | Physical laptop | Runs Wazuh manager, dashboard, and indexer |
 | Windows 11 VM | Monitored Endpoint | VirtualBox on PC | Wazuh agent installed |
-| Ubuntu VM | Monitored Endpoint | VirtualBox on PC | Wazuh agent installed |
+| Ubuntu Laptop | Monitored Endpoint | Physical Laptop | Wazuh agent installed |
 | Kali Linux VM | Test Attacker Machine | VirtualBox on PC | Used only for safe simulations |
 
 ## Network Configuration
@@ -23,7 +23,7 @@ All systems are connected on the same local network. The Ubuntu laptop hosts the
 |---|---|---|
 | Wazuh Server | 10.0.0.X | Reachable |
 | Windows 11 VM | 10.0.0.X | Can reach Wazuh server |
-| Ubuntu VM | 10.0.0.X | Can reach Wazuh server |
+| Ubuntu Laptop | 10.0.0.X | Can reach Wazuh server |
 | Kali Linux VM | 10.0.0.X| Can reach lab VMs |
 
 ## Connectivity Validation
