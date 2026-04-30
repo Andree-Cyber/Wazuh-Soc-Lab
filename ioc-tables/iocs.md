@@ -30,5 +30,5 @@ The failed login events were generated as part of a controlled lab simulation. T
 |---|---|
 | Detection query | `../detections/wazuh-queries.md` |
 | Incident report | `../incident-reports/windows-failed-logins.md` |
-| Failed login event screenshot | `../screenshots/14-windows-failed-login-events.png` |
+| Failed login event screenshot | ![image alt](https://github.com/Andree-Cyber/Wazuh-Soc-Lab/blob/9ee690da12c00ad13077df3c47628783a9b257cc/Screenshots/windows10-failed%20login-events.png) |
 | Expanded alert screenshot | `../screenshots/15-windows-failed-login-alert-details.png` |
