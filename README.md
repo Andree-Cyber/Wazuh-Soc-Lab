@@ -47,7 +47,7 @@ Evidence: ![image alt](https://github.com/Andree-Cyber/Wazuh-Soc-Lab/blob/d11dd3
 
 ## Kali VM ping to Wazuh Server
 
-Evidence: 
+Evidence: ![image alt](https://github.com/Andree-Cyber/Wazuh-Soc-Lab/blob/6de67778ba53b99f06ceeb366627b3ff58822b0d/Screenshots/screenshot-03-kali-ping-wazuh.png)
 
 ## Wazuh Login/Dashboard Access:
 
