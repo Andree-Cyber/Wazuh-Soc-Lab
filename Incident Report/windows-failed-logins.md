@@ -29,3 +29,4 @@ The following Wazuh query was used to find failed Windows login events:
 
 ```text
 data.win.system.eventID:4625
+
