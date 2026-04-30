@@ -88,6 +88,6 @@ The Wazuh agent was installed on the Windows 10 virtual machine and configured t
 | Evidence | Screenshot |
 |---|---|
 | Windows agent active in Wazuh | ![image alt](https://github.com/Andree-Cyber/Wazuh-Soc-Lab/blob/7ae3a7ba45187f96eac5e8dfe1011546405556cb/Screenshots/windows10-agent-active.png) |
-| Windows agent details page | `screenshots/09-windows-agent-details.png` |
+| Windows agent details page | ![image alt](https://github.com/Andree-Cyber/Wazuh-Soc-Lab/blob/b02a4098ee01f579cf4960e8ebd512fd339d1c66/Screenshots/windows-agent-details.png) |
 | Windows events visible in Wazuh | `screenshots/10-windows-agent-events.png` |
 
