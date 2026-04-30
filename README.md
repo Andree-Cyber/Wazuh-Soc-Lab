@@ -11,7 +11,7 @@ This lab uses a physical Ubuntu laptop as the Wazuh server and a separate PC run
 | System | Role | Platform | Notes |
 |---|---|---|---|
 | Ubuntu Laptop | Wazuh Server | Physical laptop | Runs Wazuh manager, dashboard, and indexer |
-| Windows 11 VM | Monitored Endpoint | VirtualBox on PC | Wazuh agent installed |
+| Windows 10 VM | Monitored Endpoint | VirtualBox on PC | Wazuh agent installed |
 | Ubuntu Laptop | Monitored Endpoint | Physical Laptop | Wazuh agent installed |
 | Kali Linux VM | Test Attacker Machine | VirtualBox on PC | Used only for safe simulations |
 
@@ -22,7 +22,7 @@ All systems are connected on the same local network. The Ubuntu laptop hosts the
 | System | Example IP Address | Connectivity Status |
 |---|---|---|
 | Wazuh Server | 10.0.0.X | Reachable |
-| Windows 11 VM | 10.0.0.X | Can reach Wazuh server |
+| Windows 10 VM | 10.0.0.X | Can reach Wazuh server |
 | Ubuntu Laptop | 10.0.0.X | Can reach Wazuh server |
 | Kali Linux VM | 10.0.0.X| Can reach lab VMs |
 
@@ -37,7 +37,7 @@ Connectivity was tested from each VM to the Wazuh server.
 | Kali VM ping to Wazuh server | Successful |
 | Wazuh dashboard reachable from PC browser | Successful |
 
-## Windows 11 VM Ping to Wazuh server
+## Windows 10 VM Ping to Wazuh server
 
 Evidence: ![image alt](https://github.com/Andree-Cyber/Wazuh-Soc-Lab/blob/928c19ac7bebe26fefae15298368d928dbbfe4f1/Screenshots/screenshots-01-windows-ping-wazuh.png)
 
