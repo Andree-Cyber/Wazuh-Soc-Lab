@@ -18,7 +18,7 @@ Detect failed Windows logon attempts from the Windows 10 endpoint.
 
 | Evidence | Result |
 |---|---|
-|windows-failed-login-events| 
+|windows-failed-login-events| ![image alt](https://github.com/Andree-Cyber/Wazuh-Soc-Lab/blob/5e4cc4586a209da5d68e9b3dc28b999c71c33079/Detections/windows10-failed%20login-events.png)
 |windows-failed-login-alert details| 
 
 
