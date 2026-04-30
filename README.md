@@ -43,7 +43,11 @@ Evidence: ![image alt](https://github.com/Andree-Cyber/Wazuh-Soc-Lab/blob/928c19
 
 ## Ubuntu laptop Ping to Wazuh server
 
-Evidence:
+Evidence: ![image alt](https://github.com/Andree-Cyber/Wazuh-Soc-Lab/blob/d11dd36a286a9b3d70cd64ee60df0a4ab140d41e/Screenshots/screenshot-02-ubuntu-ping-wazuh.png)
+
+## Kali VM ping to Wazuh Server
+
+Evidence: 
 
 ## Wazuh Login/Dashboard Access:
 
