@@ -64,3 +64,30 @@ Evidence:
 Login: ![image alt](https://github.com/Andree-Cyber/Wazuh-Soc-Lab/blob/95a9a0312943dc55532df4e0fe93952abc7cb62a/Screenshots/screenshot-04-login-page.png)
 Dashboard: ![image alt](https://github.com/Andree-Cyber/Wazuh-Soc-Lab/blob/7880c6dcfabdc89709c7d8cc431d9aaee04d9c40/Screenshots/screenshot-05-Wazuh-dashboard-access.png)
 
+
+
+
+
+
+## Step 3: Windows 11 Wazuh Agent Deployment
+
+The Wazuh agent was installed on the Windows 10 virtual machine and configured to communicate with the Wazuh server running on the Ubuntu laptop.
+
+### Windows Endpoint Details
+
+| Field | Value |
+|---|---|
+| Endpoint | Windows 11 VM |
+| Role | Monitored endpoint |
+| Wazuh agent status | Active |
+| Wazuh server | Ubuntu laptop |
+| Network connection | Local network |
+
+### Evidence
+
+| Evidence | Screenshot |
+|---|---|
+| Windows agent active in Wazuh | `screenshots/08-windows-agent-active.png` |
+| Windows agent details page | `screenshots/09-windows-agent-details.png` |
+| Windows events visible in Wazuh | `screenshots/10-windows-agent-events.png` |
+
