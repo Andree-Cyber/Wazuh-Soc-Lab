@@ -42,4 +42,8 @@ Connectivity was tested from each VM to the Wazuh server.
 The Wazuh login/dashboard was successfully accessed from the PC browser using the Ubuntu laptop’s local network IP address.
 
 Evidence:
-- !image alt]()
+
+Login: ![image alt](https://github.com/Andree-Cyber/Wazuh-Soc-Lab/blob/95a9a0312943dc55532df4e0fe93952abc7cb62a/Screenshots/screenshot-04-login-page.png)
+
+Dashboard: 
+
