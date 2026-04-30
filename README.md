@@ -25,3 +25,14 @@ All systems are connected on the same local network. The Ubuntu laptop hosts the
 | Windows 11 VM | 10.0.0.X | Can reach Wazuh server |
 | Ubuntu VM | 10.0.0.X | Can reach Wazuh server |
 | Kali Linux VM | 10.0.0.X| Can reach lab VMs |
+
+## Connectivity Validation
+
+Connectivity was tested from each VM to the Wazuh server.
+
+| Test | Result |
+|---|---|
+| Windows 11 VM ping to Wazuh server | Successful | 
+| Ubuntu VM ping to Wazuh server | Successful |
+| Kali VM ping to Wazuh server | Successful |
+| Wazuh dashboard reachable from PC browser | Successful |
