@@ -37,5 +37,9 @@ Connectivity was tested from each VM to the Wazuh server.
 | Kali VM ping to Wazuh server | Successful |
 | Wazuh dashboard reachable from PC browser | Successful |
 
-1. ![image alt](https://github.com/Andree-Cyber/Wazuh-Soc-Lab/blob/6012d1d2b3347de7d17cc12672978db28cd0579c/Screenshots/screenshots-01-windows-ping-wazuh.png)
-2. 
+## Wazuh Login/Dashboard Access:
+
+The Wazuh login/dashboard was successfully accessed from the PC browser using the Ubuntu laptop’s local network IP address.
+
+Evidence:
+- !image alt]()
