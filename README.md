@@ -32,7 +32,7 @@ Connectivity was tested from each VM to the Wazuh server.
 
 | Test | Result |
 |---|---|
-| Windows 11 VM ping to Wazuh server | Successful |
+| Windows 10 VM ping to Wazuh server | Successful |
 | Ubuntu laptop ping to Wazuh server | Successful |
 | Kali VM ping to Wazuh server | Successful |
 | Wazuh dashboard reachable from PC browser | Successful |
