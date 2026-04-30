@@ -17,7 +17,7 @@ Failed login attempts were generated on the Windows 11 VM by entering incorrect 
 | Evidence | Screenshot |
 |---|---|
 | Failed login events in Wazuh | ![image alt](https://github.com/Andree-Cyber/Wazuh-Soc-Lab/blob/38fc00da930443371272f709e5b9d57e985e9dfd/Detections/windows10-failed%20login-events.png) |
-| Expanded failed login alert | `screenshots/15-windows-failed-login-alert-details.png` |
+| Expanded failed login alert | ![image alt](https://github.com/Andree-Cyber/Wazuh-Soc-Lab/blob/93ca099d0331b0451367a68c27d386a868d23434/Detections/windows10-failed-login-alert-details.png) |
 
 ### Finding Summary
 Wazuh successfully detected failed Windows logon attempts from the Windows 11 endpoint. This confirmed that Windows authentication events were being collected and forwarded to the SIEM for investigation.
