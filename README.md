@@ -69,7 +69,7 @@ Dashboard: ![image alt](https://github.com/Andree-Cyber/Wazuh-Soc-Lab/blob/7880c
 
 
 
-## Step 3: Windows 11 Wazuh Agent Deployment
+## Step 2: Windows 11 Wazuh Agent Deployment
 
 The Wazuh agent was installed on the Windows 10 virtual machine and configured to communicate with the Wazuh server running on the Ubuntu laptop.
 
@@ -90,4 +90,8 @@ The Wazuh agent was installed on the Windows 10 virtual machine and configured t
 | Windows agent active in Wazuh | ![image alt](https://github.com/Andree-Cyber/Wazuh-Soc-Lab/blob/7ae3a7ba45187f96eac5e8dfe1011546405556cb/Screenshots/windows10-agent-active.png) |
 | Windows agent details page | ![image alt](https://github.com/Andree-Cyber/Wazuh-Soc-Lab/blob/b02a4098ee01f579cf4960e8ebd512fd339d1c66/Screenshots/windows-agent-details.png) |
 | Windows events visible in Wazuh | ![image alt](https://github.com/Andree-Cyber/Wazuh-Soc-Lab/blob/43b2714f3832027167781a0ecb5495f760004d2f/Screenshots/windows%2010-agent-events.png) |
+
+## Findings
+
+The Windows 10 virtual machine was successfully onboarded into Wazuh as a monitored endpoint. The agent appeared as active in the Wazuh dashboard, confirming communication between the Windows VM and the Wazuh server. Windows event data was visible in the Threat Hunting section, confirming that the endpoint was sending telemetry to the SIEM.
 
